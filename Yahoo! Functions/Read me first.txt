@@ -1,0 +1,1 @@
+Before running change filename of "YMSG12ENCRYPT.vbw" to "YMSG12ENCRYPT.dll"
